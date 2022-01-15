@@ -22,3 +22,9 @@
 3. https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
 4. https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
 5. https://leetcode-cn.com/problems/validate-binary-search-tree/
+## 第5周-堆(优先队列)
+1. https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
+2. https://leetcode-cn.com/problems/top-k-frequent-words/
+3. https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+4. https://leetcode-cn.com/problems/merge-k-sorted-lists/
+5. https://leetcode-cn.com/problems/find-median-from-data-stream/
