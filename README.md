@@ -28,3 +28,9 @@
 3. https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
 4. https://leetcode-cn.com/problems/merge-k-sorted-lists/
 5. https://leetcode-cn.com/problems/find-median-from-data-stream/
+## 第6周-线段树、字典树、并查集
+1. https://leetcode-cn.com/problems/range-sum-query-mutable/ （线段树）
+2. https://leetcode-cn.com/problems/count-of-range-sum/ （线段树）
+3. https://leetcode-cn.com/problems/implement-trie-prefix-tree/  (Trie)
+4. https://leetcode-cn.com/problems/word-search-ii/ (Trie)
+5. https://leetcode-cn.com/problems/number-of-islands/ （并查集）
