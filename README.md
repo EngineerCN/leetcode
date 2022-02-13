@@ -34,3 +34,9 @@
 3. https://leetcode-cn.com/problems/implement-trie-prefix-tree/  (Trie)
 4. https://leetcode-cn.com/problems/word-search-ii/ (Trie)
 5. https://leetcode-cn.com/problems/number-of-islands/ （并查集）
+## 第7周-排序
+1. https://leetcode-cn.com/problems/sort-an-array/
+2. https://leetcode-cn.com/problems/relative-sort-array/
+3. https://leetcode-cn.com/problems/sort-list/
+4. https://leetcode-cn.com/problems/largest-number/
+5. https://leetcode-cn.com/problems/merge-intervals/
