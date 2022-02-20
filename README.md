@@ -40,3 +40,9 @@
 3. https://leetcode-cn.com/problems/sort-list/
 4. https://leetcode-cn.com/problems/largest-number/
 5. https://leetcode-cn.com/problems/merge-intervals/
+## 第8周-二分查找
+1. https://leetcode-cn.com/problems/search-insert-position/
+2. https://leetcode-cn.com/problems/sqrtx/
+3. https://leetcode-cn.com/problems/first-bad-version/
+4. https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+5. https://leetcode-cn.com/problems/search-a-2d-matrix/
