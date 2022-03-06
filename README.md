@@ -46,9 +46,15 @@
 3. https://leetcode-cn.com/problems/first-bad-version/
 4. https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
 5. https://leetcode-cn.com/problems/search-a-2d-matrix/
-##  第9周-贪心算法
+## 第9周-贪心算法
 1. https://leetcode-cn.com/problems/lemonade-change/
 2. https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
 3. https://leetcode-cn.com/problems/jump-game/
 4. https://leetcode-cn.com/problems/jump-game-ii/
 5. https://leetcode-cn.com/problems/task-scheduler/
+## 第10周-分治算法
+1. https://leetcode-cn.com/problems/reverse-bits/
+2. https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
+3. https://leetcode-cn.com/problems/powx-n/
+4. https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+5. https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
