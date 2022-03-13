@@ -1,4 +1,10 @@
 # 每周leetcode题
+## 第11周-回溯算法
+1. https://leetcode-cn.com/problems/generate-parentheses/
+2. https://leetcode-cn.com/problems/permutations-ii/
+3. https://leetcode-cn.com/problems/restore-ip-addresses/
+4. https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+5. https://leetcode-cn.com/problems/n-queens/
 ## 第10周-分治算法
 1. https://leetcode-cn.com/problems/reverse-bits/
 2. https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
