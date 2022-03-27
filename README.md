@@ -1,4 +1,10 @@
 # 每周leetcode题
+## 第12周-动态规划（入门）
+1. https://leetcode-cn.com/problems/fibonacci-number/
+2. https://leetcode-cn.com/problems/climbing-stairs/
+3. https://leetcode-cn.com/problems/triangle/ 
+4. https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/
+5. https://leetcode-cn.com/problems/longest-common-subsequence/
 ## 第11周-回溯算法
 1. https://leetcode-cn.com/problems/generate-parentheses/
 2. https://leetcode-cn.com/problems/permutations-ii/
